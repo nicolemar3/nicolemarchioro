@@ -8,7 +8,7 @@ Mi appassionano l' informatica e la programmazione, oltre all'applicazione del M
 Nel tempo libero sono una scout e mi dedico a diverse attività di volontariato e a contatto con la natura
 
 ##  I miei progetti
-- [Perceptron per la diagnosi del diabete]()  
+- [Perceptron per la diagnosi del diabete](https://github.com/nicolemar3/perceptron-diabete/blob/main/Perceptron_per_classificazione_diabete.ipynb)  
 - Curriculum in LaTeX
 
 ## Linguaggi e strumenti
