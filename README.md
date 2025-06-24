@@ -4,7 +4,7 @@
 ## Benvenuti nel mio profilo Github!
 
 sono una Studentessa di Ingegneria Biomedica all’Università di Padova.
-Mi appassionano l' informatica e la programmazione, oltre all'applicazione del Machine Learning in ambito bioinformatico e biomedico. 
+Mi appassionano l'informatica e la programmazione, oltre all'applicazione del Machine Learning in ambito bioinformatico e biomedico. 
 Nel tempo libero sono una scout e mi dedico a diverse attività di volontariato e a contatto con la natura
 
 ##  I miei progetti
